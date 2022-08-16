@@ -6,4 +6,4 @@
  
  It have a score feature and game over feature also..👾👾
  
- ### thankyou
+ ### Thankyou
